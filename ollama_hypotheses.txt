@@ -1,0 +1,17 @@
+1. Hypothesis: The measured temperature readings are consistent with the predicted temperature readings.
+   Evidence supporting it: The original measured rows are 1800, which is consistent with the prediction rows.
+   Evidence still missing: The mean signed difference between the measured and predicted temperatures is 1.7348654836863193, which is not significantly different from 1.7348654836863193.
+   One deterministic test: The mean signed difference between the measured and predicted temperatures is 1.7348654836863193, which is not significantly different from 1.7348654836863193.
+   Result: The measured temperature readings are consistent with the predicted temperature readings.
+
+2. Hypothesis: The measured temperature readings are not consistent with the predicted temperature readings.
+   Evidence supporting it: The original measured rows are 1800, which is not consistent with the prediction rows.
+   Evidence still missing: The mean absolute difference between the measured and predicted temperatures is 2.6030000000000015, which is significantly different from 2.6030000000000015.
+   One deterministic test: The mean absolute difference between the measured and predicted temperatures is 2.6030000000000015, which is significantly different from 2.6030000000000015.
+   Result: The measured temperature readings are not consistent with the predicted temperature readings.
+
+3. Hypothesis: The measured temperature readings are consistent with the predicted temperature readings but the mean absolute difference is not significantly different from 2.6030000000000015.
+   Evidence supporting it: The original measured rows are 1800, which is consistent with the prediction rows.
+   Evidence still missing: The mean absolute difference between the measured and predicted temperatures is 2.6030000000000015, which is significantly different from 2.6030000000000015.
+   One deterministic test: The mean absolute difference between the measured and predicted temperatures is 2.6030000000000015, which is significantly different from 2.6030000000000015.
+   Result: The measured temperature readings are consistent with the predicted temperature readings but the mean absolute difference is not significantly different from 2.6030000000000015.

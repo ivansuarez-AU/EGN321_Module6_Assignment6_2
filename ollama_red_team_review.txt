@@ -1,0 +1,4 @@
+- evidence supporting it: The mean signed difference is 1.735 degrees C, which is the difference between the measured values and the predicted values. This suggests that the sensor has a calibration offset.
+- evidence still missing: The mean absolute difference is 1.7348654836863193, which is the same as the measured values. This suggests that the sensor is not consistently higher than the predicted values.
+- one deterministic test that could confirm or reject it: The mean absolute difference is 1.7348654836863193, which is the same as the measured values. This suggests that the sensor is not consistently higher than the predicted values.
+- the single most useful next deterministic test: The mean absolute difference is 1.7348654836863193, which is the same as the measured values. This suggests that the sensor is not consistently higher than the predicted values.
